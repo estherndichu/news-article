@@ -1,0 +1,21 @@
+body {
+    background-color: yellow;
+    font-family: monospace;
+}
+h2.introduction {
+    font-style: oblique;
+    text-transform: capitalize;
+    text-align: center;
+    color: red;
+    font-size: 45px;
+}
+p.introduction {
+    text-decoration: underline;
+    color: darkblue;
+    font-style: italic;
+    
+
+}
+img.introduction {
+    float: right;
+}
